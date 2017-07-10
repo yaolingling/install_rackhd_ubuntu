@@ -81,9 +81,7 @@ The ansible script contains the following roles:
 * start-rackhd - start RackHD
 
 
-## how to install RacKHD on ubuntu
-
-### For setting up RackHD which runs on frash ubuntu
+## how to install RacKHD on fresh ubuntu
 
 * step 1: change the hosts file of ansible: ~/etc/ansible/hosts
 
